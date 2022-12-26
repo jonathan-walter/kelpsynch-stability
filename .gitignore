@@ -1,3 +1,8 @@
+# Image files (figures)
+.pdf
+.tif
+.png
+
 # History files
 .Rhistory
 .Rapp.history
