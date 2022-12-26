@@ -1,17 +1,17 @@
 # large data file
-.nc
+*.nc
 
 # Image files (figures)
-.pdf
-.tif
-.png
+*.pdf
+*.tif
+*.png
 
 # History files
 .Rhistory
 .Rapp.history
 
 # Session Data files
-.RData
+*.RData
 
 # User-specific files
 .Ruserdata
